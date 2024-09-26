@@ -1,0 +1,32 @@
+body {
+    background-color: whitesmoke !important;
+}
+
+.navbar {
+    
+    padding: 0 !important;
+
+}
+
+header a {
+    background-color: black !important;
+    color: white !important;
+    padding: 7px 50px;
+    font-size: 26px !important;
+    font-weight: bold;
+}
+
+header img {
+    margin-right: 25px ;
+    padding: 5px;
+
+}
+
+.bg-danger
+.btn-danger {
+   background-color: #C60B00 !important;
+}
+
+.input-group {
+    max-height: 55px !important;
+}
